@@ -16,3 +16,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex004.c)
 
+#### 5- Faça um programa que peça ao usuário para digitar 10 valores e some-os.
+
+[Resposta](./ExerciciosResolvidos/ex005.c)
+
+#### 6- Faça um programa que leia 10 inteiros e imprima sua média.
+
+[Resposta](./ExerciciosResolvidos/ex006.c)
+
