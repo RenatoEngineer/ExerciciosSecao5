@@ -31,3 +31,8 @@
 #### 8- Escreva um programa que leia 10 números e escreva o menor valor lido e o maior valor lido.
 
 [Resposta](./ExerciciosResolvidos/ex008.c)
+
+#### 9- Faça um programa que leia um número inteiro N e depois imprima os N primeiros números naturais impares.
+
+[Resposta](./ExerciciosResolvidos/ex009.c)
+
