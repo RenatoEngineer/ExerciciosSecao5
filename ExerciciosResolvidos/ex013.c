@@ -14,7 +14,7 @@ int main(){
 	int numero;
 	int contador;
 
-	printf("Digite um Numero Inteiro Positivo: ");
+	printf("Digite um Numero Inteiro Par Positivo: ");
 	fflush(stdout);
 	scanf("%d", &numero);
 
