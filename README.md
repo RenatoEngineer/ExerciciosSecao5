@@ -56,3 +56,11 @@
 
 [Resposta](./ExerciciosResolvidos/ex014.c)
 
+#### 15- Faça um programa que leia um número inteiro positivo impar N e imprima todos os números impares de 1 até N em ordem crescente.
+
+[Resposta](./ExerciciosResolvidos/ex015.c)
+
+#### 16- Faça um programa que leia um número inteiro positivo impar N e imprima todos os números impares de 1 até N em ordem decrescente.
+
+[Resposta](./ExerciciosResolvidos/ex016.c)
+
