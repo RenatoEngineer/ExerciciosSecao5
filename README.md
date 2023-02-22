@@ -76,3 +76,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex019.c)
 
+#### 20- Ler uma sequência de números inteiros e determinar se eles são pares ou não. Deverá ser informado o número de dados lidos e números de valores pares. O processo termina quando for digitado o número 1000.
+
+[Resposta](./ExerciciosResolvidos/ex020.c)
+
