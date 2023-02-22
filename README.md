@@ -80,3 +80,9 @@
 
 [Resposta](./ExerciciosResolvidos/ex020.c)
 
+#### 21- Faça um programa que receba dois números. Calcule e mostre:
+* a soma dos números pares desse intervalo de números, incluindo os números digitados;
+* a multiplicação dos números impares desse intervalo, incluindo os digitados;
+
+[Resposta](./ExerciciosResolvidos/ex021.c)
+
