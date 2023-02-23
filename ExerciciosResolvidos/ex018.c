@@ -1,7 +1,7 @@
 /*
  * ex018.c
  *
- *  Criado em: 21 de fev de 2023
+ *  Criado em: 23 de fev de 2023
  *      Autor: Renato Gomes de Sousa
  *
  *      https://github.com/RenatoEngineer
@@ -9,45 +9,36 @@
 
 #include <stdio.h>
 
-int main(){
-
-	int qtNumero;
+int main() {
+    int quantidade;
+	int numero;
 	int maior = 0;
-	int numero[100];
-	int contador1;
-	int contador2;
-	int contador3;
-	int contadorVezes = 0;
+	int contMaior = 0;
+	int contador;
 	int ordinal = 176; //Tabela ASCII
 
-	printf("Digite a quantidade de Numeros que serao Digitados: ");
-	fflush(stdout);
-	scanf("%d", &qtNumero);
+    printf("Digite a quantidade de numeros: ");
+    fflush(stdout);
+    scanf("%d", &quantidade);
 
-	for(contador1 = 0; contador1 < qtNumero; contador1++){
-		printf("Digite o numero %d%c: ", contador1+1, ordinal);
-		fflush(stdout);
-		scanf("%d", &numero[contador1]);
-		maior = numero[contador1];
-	}
+    for (contador = 1; contador <= quantidade; contador++) {
+        printf("Digite o %d%c numero: ", contador, ordinal);
+        fflush(stdout);
+        scanf("%d", &numero);
 
-	for(contador2 = 0; contador2 < qtNumero; contador2++){
-		if(numero[contador2] > maior){
-			maior = numero[contador2];
-		}
-	}
+        if (numero > maior) {
+            maior = numero;
+            contMaior = 1;
+        } else if (numero == maior) {
+            contMaior++;
+        }
+    }
 
-	for(contador3 = 0; contador3 < qtNumero; contador3++){
-		if(numero[contador3] == maior){
-			contadorVezes++;
-		}
-	}
-
-	if(contadorVezes > 1){
-		printf("\nO maior numero e: %d \nEle foi lido: %d vezes", maior, contadorVezes);
+	if(contMaior > 1){
+		printf("\nO maior numero e: %d \nEle foi lido: %d vezes", maior, contMaior);
 	}else{
-		printf("\nO maior numero e: %d \nEle foi lido: %d vez", maior, contadorVezes);
+		printf("\nO maior numero e: %d \nEle foi lido: %d vez", maior, contMaior);
 	}
 
-	return 0;
+    return 0;
 }
