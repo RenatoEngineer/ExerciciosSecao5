@@ -90,3 +90,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex022.c)
 
+#### 23- Faça um algoritmo que leia um número positivo e imprima seus divisores.
+
+[Resposta](./ExerciciosResolvidos/ex023.c)
+
