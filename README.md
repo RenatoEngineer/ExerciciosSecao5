@@ -102,3 +102,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex025.c)
 
+#### 26- Faça um algoritmo que encontre o primeiro múltiplo de 11, 13 ou 17 após um número dado.
+
+[Resposta](./ExerciciosResolvidos/ex026.c)
+
