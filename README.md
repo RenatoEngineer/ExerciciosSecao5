@@ -98,3 +98,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex024.c)
 
+#### 25- Faça um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 ou 5.
+
+[Resposta](./ExerciciosResolvidos/ex025.c)
+
