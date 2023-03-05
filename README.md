@@ -120,3 +120,9 @@ E=1+1/1!+1/2!+1/3!+⋯+1/N!
 
 [Resposta](./ExerciciosResolvidos/ex028.c)
 
+#### 29- Escreva um programa para calcular o valor da série, para 5 termos.
+
+S=0+1/2!+2/4!+3/6!+...
+
+[Resposta](./ExerciciosResolvidos/ex029.c)
+
