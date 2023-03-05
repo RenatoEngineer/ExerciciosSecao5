@@ -146,3 +146,7 @@ S= 1/1 + 3/2 + 5/3 + 7/4 + ... + 99/50
 
 [Resposta](./ExerciciosResolvidos/ex032.c)
 
+#### 33- Dados n e dois números inteiros positivos, i e j, diferentes de 0, imprimir em ordem crescente os n primeiros naturais que são múltiplos de i ou de j e ou de ambos. Exemplo: Para n = 6, i = 2 e j = 3 a saída deverá ser: 0, 2, 3, 4, 6, 8.
+
+[Resposta](./ExerciciosResolvidos/ex033.c)
+
