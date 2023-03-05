@@ -142,3 +142,7 @@ S= 1/1 + 3/2 + 5/3 + 7/4 + ... + 99/50
 
 [Resposta](./ExerciciosResolvidos/ex031.c)
 
+#### 32- Faça um programa que simula o lançamento de dois dados, d1 e d2, n vezes, e tem como saída o número de cada dado e a relação entre eles (>, <, =) de cada lançamento.
+
+[Resposta](./ExerciciosResolvidos/ex032.c)
+
