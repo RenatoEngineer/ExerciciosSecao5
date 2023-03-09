@@ -194,3 +194,7 @@ Por exemplo: 32 + 42 = 9 + 16 = 25 = 5²
 
 [Resposta](./ExerciciosResolvidos/ex038.c)
 
+#### 39- Faça um programa que calcule a área de um triângulo, cuja base e altura são fornecidas pelo usuário. Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
+
+[Resposta](./ExerciciosResolvidos/ex039.c)
+
