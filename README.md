@@ -186,3 +186,11 @@ Por exemplo, para o inteiro 3025, temos que:
 
 [Resposta](./ExerciciosResolvidos/ex037.c)
 
+#### 38- Faça um programa que calcule o terno pitagórico a, b, c, para o qual a + b + c = 1000.
+
+Um terno pitagórico é um conjunto de três números naturais, a, b, c, para a qual, a² + b² = c²
+
+Por exemplo: 32 + 42 = 9 + 16 = 25 = 5²
+
+[Resposta](./ExerciciosResolvidos/ex038.c)
+
