@@ -198,3 +198,7 @@ Por exemplo: 32 + 42 = 9 + 16 = 25 = 5²
 
 [Resposta](./ExerciciosResolvidos/ex039.c)
 
+#### 40- Elabore um programa que faça leitura de vários números inteiros, até que se digite um número negativo. O programa tem que retornar o maior e o menor número lido.
+
+[Resposta](./ExerciciosResolvidos/ex040.c)
+
