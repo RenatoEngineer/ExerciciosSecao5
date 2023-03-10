@@ -202,3 +202,9 @@ Por exemplo: 32 + 42 = 9 + 16 = 25 = 5²
 
 [Resposta](./ExerciciosResolvidos/ex040.c)
 
+#### 41- Faça um programa que calcula a associação em paralelo de dois resistores R1 e R2 fornecidos pelo usuário via teclado. O programa fica pedindo estes valores e calculando até que o usuário entre com um valor para resistência igual a zero.
+
+R = R1 * R2 / R1 + R2
+
+[Resposta](./ExerciciosResolvidos/ex041.c)
+
