@@ -240,3 +240,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex047.c)
 
+#### 48- Faça um programa que some os termos de valor par da sequência de Fibonacci, cujos valores não ultrapassem quatro milhões.
+
+[Resposta](./ExerciciosResolvidos/ex048.c)
+
