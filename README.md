@@ -224,3 +224,7 @@ R = R1 * R2 / R1 + R2
 
 [Resposta](./ExerciciosResolvidos/ex045.c)
 
+#### 46- Faça um programa que gera um número aleatório de 1 a 1000. O usuário deve tentar acertar qual o número foi gerado, a cada tentativa o programa deverá informar se o chute é menor ou maior que o número gerado. O programa acaba quando o usuário acerta o número gerado. O programa deve informar em quantas tentativas o número foi descoberto.
+
+[Resposta](./ExerciciosResolvidos/ex046.c)
+
