@@ -275,3 +275,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex053.c)
 
+#### 54- Faça um programa que receba um número inteiro maior do que 1, e verifique se o número fornecido é primo ou não.
+
+[Resposta](./ExerciciosResolvidos/ex054.c)
+
