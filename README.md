@@ -279,3 +279,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex054.c)
 
+#### 55- Escreva um programa que leia um inteiro não negativo n e imprima a soma dos n primeiros números primos.
+
+[Resposta](./ExerciciosResolvidos/ex055.c)
+
