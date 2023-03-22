@@ -283,3 +283,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex055.c)
 
+#### 56- Faça um programa que calcule a soma de todos os números primos abaixo de dois milhões.
+
+[Resposta](./ExerciciosResolvidos/ex056.c)
+
