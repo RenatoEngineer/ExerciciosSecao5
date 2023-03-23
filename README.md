@@ -291,3 +291,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex057.c)
 
+#### 58- Faça um programa que some os números primos existentes entre a e b, onde a e b são números informados pelo usuário.
+
+[Resposta](./ExerciciosResolvidos/ex058.c)
+
