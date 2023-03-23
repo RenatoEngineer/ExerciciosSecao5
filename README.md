@@ -287,3 +287,7 @@ O programa deve possibilitar ao usuário a escolha da operação desejada, a exi
 
 [Resposta](./ExerciciosResolvidos/ex056.c)
 
+#### 57- Faça um programa que conte quantos números primos existem entre a e b, onde a e b são números informados pelo usuário.
+
+[Resposta](./ExerciciosResolvidos/ex057.c)
+
