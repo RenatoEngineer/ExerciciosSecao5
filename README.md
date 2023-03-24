@@ -317,3 +317,7 @@ Finalize a entrada de dados caso o usuário informe o valor 0.
 
 [Resposta](./ExerciciosResolvidos/ex060.c)
 
+#### 61- Faça um programa que calcule o maior número palíndromo feito a partir do produto de dois números de 3 dígitos. Ex.: O maior palíndromo feito a partir do produto de dois números de dois dígitos é 9009 = 91*99.
+
+[Resposta](./ExerciciosResolvidos/ex061.c)
+
